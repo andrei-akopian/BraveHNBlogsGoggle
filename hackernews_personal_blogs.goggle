@@ -650,7 +650,7 @@ $boost=3,site=cache.substack.com
 $boost=3,site=blackshaw.substack.com
 $boost=3,site=blog.charliemeyer.co
 $boost=3,site=heidenstedt.org
-$boost=3,site=mbork.pl?action=rs
+$boost=3,site=mbork.pl
 $boost=3,site=www.macchaffee.com
 $boost=3,site=www.softwareatscale.dev
 $boost=3,site=tbolt.space
