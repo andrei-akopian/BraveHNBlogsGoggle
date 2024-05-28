@@ -9,6 +9,7 @@
 
 $discard
 $downrank,site=medium.com
+$downrank,site=youtube.com
 $boost=3,site=blog.jgc.org
 $boost=3,site=jakeseliger.com
 $boost=3,site=letterstoanewdeveloper.com
